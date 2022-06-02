@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a front-end developer from Tel-Aviv
+I am a front-end developer from Tel-Aviv.
 - 🔭 Working on multiple frontend projects using React
 - 🌱 I’m currently learning Saas and Typescript
 <br>
