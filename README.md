@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 I am a front-end developer from Tel-Aviv.
-- 🔭 Working on multiple frontend projects using React
-- 🌱 I’m currently learning Saas and Typescript
+- 🔭 Working on multiple frontend projects using React.
+- 🌱 My following learnings include Node.js, Saas, and Typescript.
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,6 +23,7 @@ I am a front-end developer from Tel-Aviv.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
