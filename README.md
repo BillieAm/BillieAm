@@ -2,7 +2,7 @@
 
 I am a front-end developer from Tel-Aviv.
 - 🔭 Working on multiple frontend projects using React.
-- 🌱 The next technologies I'm planning to learn are Node.js, Saas, and Typescript.
+- 🌱 The next technologies I'm planning to learn are **Node.js**, **Saas**, and **Typescript**.
 
 <br>
 
