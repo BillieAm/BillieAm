@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a front-end developer from Tel-Aviv.
-- 🔭 Working on multiple frontend projects using **React**, **Tailwindcss**.
+- 🔭 Working on multiple frontend projects using **React**, **Javascript**, **CSS**, **HTML**, **Figma**.
 - 🌱 I’m currently learning **Typescript**.
 
 <br>
