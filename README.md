@@ -2,7 +2,7 @@
 
 I am a front-end developer from Tel-Aviv.
 - 🔭 Working on multiple frontend projects using **React**, **Tailwindcss**.
-- 🌱 I’m currently learning **Saas**, and **Typescript**.
+- 🌱 I’m currently learning **Typescript**.
 
 <br>
 
