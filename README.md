@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I am a front-end developer from Tel-Aviv.
-- 🔭 Working on multiple frontend projects using **React**, **Javascript**, **Typescript**, **CSS**, **HTML**, **Figma**.
-- 🌱 I’m currently learning to use **Storybook**.
+I am a front-end developer from Tel-Aviv
+- 🔭 Working on multiple frontend projects using **React**, **Javascript**, **Typescript**, **CSS**, **HTML**, **Figma**
+- 🌱 I’m currently learning to use **Storybook**
 - 🔎 I am seeking a position as a frontend developer
+- 🖥 Check out my [website](https://billieamit.com) to see more details
 
 <br>
 
