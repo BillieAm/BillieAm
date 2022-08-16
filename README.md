@@ -2,7 +2,7 @@
 
 I am a front-end developer from Tel-Aviv
 - 🔭 Working on multiple frontend projects using **React**, **Javascript**, **Typescript**, **CSS**, **HTML**, **Figma**
-- 🌱 I’m currently learning to use **Storybook**
+- 🌱 I’m currently learning to use **Storybook**, and working on several React projects
 - 🔎 Seeking a position as a frontend developer
 - 🖥 Check out my [website](https://billieamit.com) to see more details
 
