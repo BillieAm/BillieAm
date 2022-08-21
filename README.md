@@ -8,7 +8,7 @@ I am a front-end developer from Tel-Aviv
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technologies and Tools:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html icon" title="HTML" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css icon" title="CSS" width="40" height="40" />
